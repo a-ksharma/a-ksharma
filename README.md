@@ -1,13 +1,13 @@
 Hi there, This is 👇
+    _                   _     
+   / \  _   _ _   _ ___| |__  
+  / _ \| | | | | | / __| '_ \ 
+ / ___ \ |_| | |_| \__ \ | | |
+/_/   \_\__, |\__,_|___/_| |_|
+        |___/                 
 
-                          _     
-     /\                  | |    
-    /  \  _   _ _   _ ___| |__  
-   / /\ \| | | | | | / __| '_ \ 
-  / ____ \ |_| | |_| \__ \ | | |
- /_/    \_\__, |\__,_|___/_| |_|
-           __/ |                
-          |___/                 
+
+
 <!--
 **a-ksharma/a-ksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
