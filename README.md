@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush Kumar Sharma 👋
 
-Welcome to my GitHub profile! This repository is a special one — it helps me showcase who I am, what I work on, and where I'm heading. Think of it as my developer portfolio on GitHub itself.
+Welcome to my GitHub profile! This special repository serves as a dynamic snapshot of who I am as a developer — highlighting my skills, current projects, and future goals. It's more than just code; it's a living portfolio that reflects my journey, passion, and growth in the tech world.
 
 ---
 
